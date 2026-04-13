@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: yxt.jpg
+  image: yxt_v1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>The Chinese University of Hong Kong</p>
