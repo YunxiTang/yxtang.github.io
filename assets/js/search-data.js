@@ -445,11 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-successfully-passed-my-ph-d-defense-at-the-chinese-university-of-hong-kong-thesis-learning-based-deformable-linear-object-manipulation-in-unstructured-environments",
+            },},{id: "news-successfully-passed-my-ph-d-defense-at-the-chinese-university-of-hong-kong-thesis-learning-based-deformable-linear-object-manipulation-in-unstructured-environments",
           title: 'Successfully passed my Ph.D. defense at The Chinese University of Hong Kong. Thesis:...',
+          description: "",
+          section: "News",},{id: "news-started-my-postdoctoral-research-at-the-bmt-lab-cuhk-focusing-on-embodied-ai-for-robotic-manipulation-and-safety-aware-autonomous-surgical-systems-smile",
+          title: 'Started my postdoctoral research at the BMT Lab, CUHK, focusing on embodied AI...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
