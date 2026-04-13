@@ -29,9 +29,7 @@ latest_posts:
 
 I am a Postdoctoral Researcher in robotics and artificial intelligence at The Chinese University of Hong Kong (CUHK), affiliated with the Multiscale Robotics Center in Hong Kong SAR. Previously, I received my Ph.D. from the Bioinspired Robotics and Medical Technology [(BMT)](https://biomedirobotics.com/) group at CUHK, where I worked with [Prof. Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/).
 
-My research focuses on enabling robots to perceive, model, and manipulate deformable objects, with a particular emphasis on autonomous surgical systems.
-
-My work lies at the intersection of:
+My research focuses on enabling robots to perceive, model, and manipulate deformable objects, with a particular emphasis on autonomous surgical systems. My work lies at the intersection of:
 
     - Learning-based control and manipulation
     - Vision-based reconstruction and perception
