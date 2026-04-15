@@ -419,7 +419,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-rss-paper-homotopic-path-set-planning-for-robot-manipulation-and-navigation-has-been-accepted",
+            },},{id: "news-one-ral-paper-learning-based-mpc-with-safety-filter-for-constrained-deformable-linear-object-manipulation-has-been-accepted",
+          title: 'One RAL paper, “Learning-Based MPC With Safety Filter for Constrained Deformable Linear Object...',
+          description: "",
+          section: "News",},{id: "news-one-rss-paper-homotopic-path-set-planning-for-robot-manipulation-and-navigation-has-been-accepted",
           title: 'One RSS paper, “Homotopic path set planning for robot manipulation and navigation,” has...',
           description: "",
           section: "News",},{id: "news-successfully-passed-my-ph-d-defense-at-the-chinese-university-of-hong-kong-thesis-learning-based-deformable-linear-object-manipulation-in-unstructured-environments",
