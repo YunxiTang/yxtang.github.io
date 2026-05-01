@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-01'
 papers:
   HlvVxEYAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: 'Bootstrapping robotic skill learning with intuitive teleoperation: Initial feasibility study'
     year: '2023'
   HlvVxEYAAAAJ:9yKSN-GCB0IC:
-    citations: 80
+    citations: 79
     title: Controlling bending deformation of a shape memory alloy-based soft planar gripper to grip deformable objects
     year: '2021'
   HlvVxEYAAAAJ:IjCSPb-OGe4C:
