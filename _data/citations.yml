@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-11'
 papers:
   HlvVxEYAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: 'Bootstrapping robotic skill learning with intuitive teleoperation: Initial feasibility study'
     year: '2023'
   HlvVxEYAAAAJ:9yKSN-GCB0IC:
-    citations: 79
+    citations: 81
     title: Controlling bending deformation of a shape memory alloy-based soft planar gripper to grip deformable objects
     year: '2021'
   HlvVxEYAAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: Generative 3D State Estimation for DLOs From Partial Observations
     year: '2025'
   HlvVxEYAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: Dynamic visual tracking for robot manipulator using adaptive fading Kalman filter
     year: '2020'
   HlvVxEYAAAAJ:eQOLeE2rZwMC:
