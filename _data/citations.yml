@@ -1,12 +1,16 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-18'
 papers:
+  HlvVxEYAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
+    year: '2026'
   HlvVxEYAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: 'Bootstrapping robotic skill learning with intuitive teleoperation: Initial feasibility study'
     year: '2023'
   HlvVxEYAAAAJ:9yKSN-GCB0IC:
-    citations: 81
+    citations: 82
     title: Controlling bending deformation of a shape memory alloy-based soft planar gripper to grip deformable objects
     year: '2021'
   HlvVxEYAAAAJ:IjCSPb-OGe4C:
